@@ -49,8 +49,6 @@ class Model(object):
 
     def add_loss_op(self, pred):
         """Adds Ops for the loss function to the computational graph.
-
-        Args:
             pred: A tensor of shape (batch_size, n_classes)
         Returns:
             loss: A 0-d tensor (scalar) output
