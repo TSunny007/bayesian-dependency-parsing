@@ -8,7 +8,6 @@ Required libraries:
 ```
 tensorflow - 1.15
 tensorflow probability - 1.15
-[edward](https://github.com/blei-lab/edward)- 1.3.5
 ```
 
 ## running
