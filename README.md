@@ -13,8 +13,10 @@ tensorflow probability - 1.15
 ## running
 
 Edit the `Config` class in the respective file and run `python {classifier/bayesian_classifier}.py.` Training and inference should take about 30 minutes without a GPU, within 5 when using one.
-Results:
 
-[Short paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/TarunSunkaraneni/bayesian-dependency-parsing/master/report.pdf)
+## results:
 
 ![results](/results.png?raw=true "results") 
+
+
+[Short paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/TarunSunkaraneni/bayesian-dependency-parsing/master/report.pdf)
