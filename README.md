@@ -1,6 +1,6 @@
 # bayesian-dependency-parsing
 
-Trying to implement a Bayesian neural network to perform graph-based semantic dependency parsing! General problem setup and inspiration  is from [Simpler but More Accurate Semantic Dependency Parsing](https://arxiv.org/abs/1807.01396)
+Trying to implement a Bayesian neural network to perform graph-based semantic dependency parsing! General problem setup and inspiration  is from [A Fast and Accurate Dependency Parser using Neural Networks](https://aclanthology.org/D14-1082.pdf)
 
 ## setup
 
